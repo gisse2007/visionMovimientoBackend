@@ -1,0 +1,14 @@
+Accuracy general: 0.2792
+
+                  precision    recall  f1-score   support
+
+    brazos_abajo       0.19      1.00      0.32        40
+   brazos_arriba       0.00      0.00      0.00        40
+  brazos_derecha       1.00      0.03      0.05        40
+brazos_izquierda       1.00      0.30      0.46        40
+    manos_cadera       0.00      0.00      0.00        40
+           salto       0.93      0.35      0.51        40
+
+        accuracy                           0.28       240
+       macro avg       0.52      0.28      0.22       240
+    weighted avg       0.52      0.28      0.22       240
