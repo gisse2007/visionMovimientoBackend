@@ -10,9 +10,9 @@
 
 fastapi==0.116.0
 uvicorn==0.35.0
-opencv-python-headless==4.10.0.84
+opencv-python-headless==4.8.1.78
 mediapipe==0.10.35
-tensorflow-cpu==2.15.0
+tensorflow==2.15.1
 numpy==1.26.4
 pandas==2.2.3
 scikit-learn==1.5.2
